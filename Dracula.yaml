@@ -34,7 +34,7 @@ server-tree:
   newtalk:
     color: '#f9ee98'
   unread:
-    color: '#ff79c6'
+    color: '#f1fa8c'
   normal:
     active:
       color: '#bd93f9'
