@@ -158,11 +158,11 @@ body.normal .message {
 .message[type=privmsg] {}
 
 .message[type=notice] {
-    color: #888;
+    color: #f1fa8c;
 }
 
 .message[type=action] {
-    color: #bcce8b;
+    color: #bd93f9;
 }
 
 .message[type=system],
@@ -176,16 +176,16 @@ body.normal .message {
 .message[type=topic],
 .message[type=invite],
 .message[type=wallops] {
-    color: #65b042;
+    color: #50fa7b;
 }
 
 .message[type=reply] {
-    color: #509036;
+    color: #50fa7b;
 }
 
 .message[type=error],
 .message[type=error_reply] {
-    color: #f67b37;
+    color: #ff5555;
 }
 
 .message[type=dcc_send_send] {
