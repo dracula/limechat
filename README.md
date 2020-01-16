@@ -16,7 +16,6 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 --- | 
 [Tom Nicklin](https://github.com/shmink) | 
 
-
 ## License
 
 [MIT License](./LICENSE)
