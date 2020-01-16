@@ -1,8 +1,10 @@
 ### [LimeChat](http://limechat.net/mac/)
 
+
 #### Install
 
 Download using the [GitHub .zip download](https://github.com/dracula/limechat/archive/master.zip) option
+
 
 #### Activating theme
 
